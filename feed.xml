@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Tiefen-Glück</title>
-    <link href="https://github.com/tiefen-glueck/Avatar-Ann/feed.xml" rel="self" />
-    <link href="https://github.com/tiefen-glueck/Avatar-Ann" />
+    <link href="https://tiefen-glueck.github.io/Avatar-Ann/feed.xml" rel="self" />
+    <link href="https://tiefen-glueck.github.io/Avatar-Ann" />
     <updated>2025-03-26T16:19:08+01:00</updated>
     <author>
         <name>AS</name>
     </author>
-    <id>https://github.com/tiefen-glueck/Avatar-Ann</id>
+    <id>https://tiefen-glueck.github.io/Avatar-Ann</id>
 
     <entry>
         <title>Willkommen bei Coach Ann  </title>
         <author>
             <name>AS</name>
         </author>
-        <link href="https://github.com/tiefen-glueck/Avatar-Ann/willkommen-bei-coach-ann.html"/>
-        <id>https://github.com/tiefen-glueck/Avatar-Ann/willkommen-bei-coach-ann.html</id>
+        <link href="https://tiefen-glueck.github.io/Avatar-Ann/willkommen-bei-coach-ann.html"/>
+        <id>https://tiefen-glueck.github.io/Avatar-Ann/willkommen-bei-coach-ann.html</id>
 
         <updated>2025-03-26T15:47:17+01:00</updated>
             <summary>
@@ -29,7 +29,7 @@
 <h1 style="text-align: center; color: #4b4b4b;">Willkommen bei Coach Ava</h1>
 <p style="text-align: center; font-size: 1.1em; color: #666;">Deine digitale Begleiterin für Achtsamkeit, Tiefenglück und Selbstverbindung.</p>
 <!-- Optionales Bild -->
-<div style="text-align: center; margin: 1.5em 0;"><figure class="post__image"><img loading="lazy"  src="https://github.com/tiefen-glueck/Avatar-Ann/media/posts/1/Ann-Avatar.JPG" alt="Avatar Ann" width="433" height="321" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://github.com/tiefen-glueck/Avatar-Ann/media/posts/1/responsive/Ann-Avatar-xs.JPG 640w ,https://github.com/tiefen-glueck/Avatar-Ann/media/posts/1/responsive/Ann-Avatar-sm.JPG 768w ,https://github.com/tiefen-glueck/Avatar-Ann/media/posts/1/responsive/Ann-Avatar-md.JPG 1024w ,https://github.com/tiefen-glueck/Avatar-Ann/media/posts/1/responsive/Ann-Avatar-lg.JPG 1366w ,https://github.com/tiefen-glueck/Avatar-Ann/media/posts/1/responsive/Ann-Avatar-xl.JPG 1600w ,https://github.com/tiefen-glueck/Avatar-Ann/media/posts/1/responsive/Ann-Avatar-2xl.JPG 1920w"></figure></div>
+<div style="text-align: center; margin: 1.5em 0;"><figure class="post__image"><img loading="lazy"  src="https://tiefen-glueck.github.io/Avatar-Ann/media/posts/1/Ann-Avatar.JPG" alt="Avatar Ann" width="433" height="321" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://tiefen-glueck.github.io/Avatar-Ann/media/posts/1/responsive/Ann-Avatar-xs.JPG 640w ,https://tiefen-glueck.github.io/Avatar-Ann/media/posts/1/responsive/Ann-Avatar-sm.JPG 768w ,https://tiefen-glueck.github.io/Avatar-Ann/media/posts/1/responsive/Ann-Avatar-md.JPG 1024w ,https://tiefen-glueck.github.io/Avatar-Ann/media/posts/1/responsive/Ann-Avatar-lg.JPG 1366w ,https://tiefen-glueck.github.io/Avatar-Ann/media/posts/1/responsive/Ann-Avatar-xl.JPG 1600w ,https://tiefen-glueck.github.io/Avatar-Ann/media/posts/1/responsive/Ann-Avatar-2xl.JPG 1920w"></figure></div>
 <p style="line-height: 1.6; color: #444;">Coach Ava begleitet dich mit freundlicher Stimme durch Übungen, Fragen und Impulse auf deinem Weg zu mehr innerer Ruhe und Klarheit. Du kannst ihr Fragen stellen oder z. B. den Achtsamkeitstest starten.</p>
 <div style="margin: 2em 0;"><div class="post__iframe"><iframe loading="lazy" width="100%" height="600" style="border-radius: 12px; box-shadow: 0 0 15px rgba(0,0,0,0.08);" src="https://labs.heygen.com/interactive-avatar/share?share=eyJxdWFsaXR5IjoiaGlnaCIsImF2YXRhck5hbWUiOiJBbm5fRG9jdG9yX1N0YW5kaW5nMl9wdWJs%0D%0AaWMiLCJwcmV2aWV3SW1nIjoiaHR0cHM6Ly9maWxlczIuaGV5Z2VuLmFpL2F2YXRhci92My82OTlh%0D%0ANGMyOTk1OTE0ZDM5YjJjYjMxMWE5MzBkNzcyMF80NTU3MC9wcmV2aWV3X3RhbGtfMy53ZWJwIiwi%0D%0AbmVlZFJlbW92ZUJhY2tncm91bmQiOmZhbHNlLCJrbm93bGVkZ2VCYXNlSWQiOiI5ODU0MDMxODAw%0D%0ANzE0Y2RjYjY2Nzc1NWU3NmEyY2ExNiIsInVzZXJuYW1lIjoiMzFlNTlkNzIxNDVmNGYyMjgxNGYy%0D%0AZjA0NGI2YjhlOTMifQ%3D%3D" target="_blank" frameborder="0" allow="microphone; fullscreen;">
     </iframe></div></div>
